@@ -1,0 +1,13 @@
+{
+  "name": "bot spam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "dependencies": {
+    "mineflayer": "^4.5.0",
+    "socks": "^2.6.1",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
